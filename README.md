@@ -69,3 +69,17 @@ Customer ID 3
 }
 ```
 
+## API details
+
+Here are API screenshots
+
+![API-response-customer-1.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2FAPI-response-customer-1.PNG)
+![API-response-customer-2.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2FAPI-response-customer-2.PNG)
+
+## Unit tests
+
+Here are the Unit tests screenshots
+
+![junit tests.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2Fjunit%20tests.PNG)
+
+
