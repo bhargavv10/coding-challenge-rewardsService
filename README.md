@@ -73,13 +73,13 @@ Customer ID 3
 
 Here are API screenshots
 
-![API-response-customer-1.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2FAPI-response-customer-1.PNG)
-![API-response-customer-2.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2FAPI-response-customer-2.PNG)
+![API-response-customer-1](https://user-images.githubusercontent.com/127347353/224142225-78a51e85-09fc-48e3-adfa-f653c2b0c011.PNG)
+![API-response-customer-2](https://user-images.githubusercontent.com/127347353/224142263-4091ffe2-7a54-4e57-9053-768ca438aa99.PNG)
 
 ## Unit tests
 
 Here are the Unit tests screenshots
 
-![junit tests.PNG](..%2F..%2FUsers%2Fbhargav%2FPictures%2Fjunit%20tests.PNG)
+![junit tests](https://user-images.githubusercontent.com/127347353/224142332-c9707e8a-0343-4537-add3-7a79f8bafa21.PNG)
 
 
