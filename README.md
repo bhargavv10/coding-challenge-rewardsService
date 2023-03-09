@@ -9,10 +9,14 @@ This project requires JDK 11 to build and run the application.
 To run locally you must use the following Grade commands to first compile and then run the project:
 
 To compile (and run included JUnit tests) run the following from command line:
-**/gradlew clean build**
+```
+./gradlew clean build
+```
 
 To run the project (this starts Spring Boot's embedded Tomcat server) run the following from command line:
-**./gradlew bootRun**
+```
+./gradlew bootRun
+```
 
 Your local app runs on port 8080, by default. You can test the app using: 
 http://localhost:8080/api/rewards/{customerId}
